@@ -2,16 +2,15 @@
 
 # OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal
 
-[![ECCV](https://img.shields.io/badge/ECCV%202024-Accepted-informational.svg)](https://eccv.ecva.net/virtual/2024/poster/1048)&nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2408.11480-b31b1b.svg)](https://arxiv.org/abs/2408.11480)&nbsp;
+[![ECCV](https://img.shields.io/badge/ECCV%202024-Accepted-informational.svg)](https://eccv.ecva.net/virtual/2024/poster/1048)
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2408.11480-b31b1b.svg)](https://arxiv.org/abs/2408.11480)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=QMoQ/OAPT)
-
 
 [Qiao Mo](), [Yukang Ding](), [Jinhua Hao](https://eric-hao.github.io/), [Qiang Zhu](), [Ming Sun](), [Chao Zhou](), [Feiyu Chen](), [Shuyuan Zhu]()
 
 </div>
 
-> Official implementation of OAPT in ECCV2024, which is a transformer-based network deigned for double (or multiple) compressed image restoration.
+> Official implementation of OAPT in ECCV2024, which is a transformer-based network designed for double (or multiple) compressed image restoration.
 
 ### Architecture
 ![architecture](pics/pipeline.png)
